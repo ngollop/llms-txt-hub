@@ -966,6 +966,7 @@ A curated list of LLM-powered tools and resources with llms.txt implementation.
 - ![The Dinner Detective Murder Mystery Show favicon](https://www.google.com/s2/favicons?domain=www.thedinnerdetective.com&size=128) **[The Dinner Detective Murder Mystery Show](https://www.thedinnerdetective.com/)** - True crime mystery dinner shows with a twist! Now playing in 100+ cities. Hilarious show, great meal! Private events and gift certificates. <sub>[llms.txt](https://www.thedinnerdetective.com/llms.txt) • [llms-full.txt](https://www.thedinnerdetective.com/llms-full.txt)</sub>
 - ![Trail of Bits favicon](https://www.google.com/s2/favicons?domain=www.trailofbits.com&size=128) **[Trail of Bits](https://www.trailofbits.com)** - Security research and consulting platform <sub>[llms.txt](https://www.trailofbits.com/llms.txt) • [llms-full.txt](https://www.trailofbits.com/llms-full.txt)</sub>
 - ![Unkey favicon](https://www.google.com/s2/favicons?domain=unkey.com&size=128) **[Unkey](https://unkey.com)** - API key management and authentication platform <sub>[llms.txt](https://www.unkey.com/docs/llms.txt)</sub>
+- ![Savly favicon](https://www.google.com/s2/favicons?domain=besavly.money&size=128) **[Savly](https://besavly.money)** - Free budgeting app with zero-based budgeting, multi-currency support, household sharing, and bank syncing <sub>[llms.txt](https://besavly.money/llms.txt) • [llms-full.txt](https://besavly.money/llms-full.txt)</sub>
 
 <!-- LLMS-LIST:END -->
 
